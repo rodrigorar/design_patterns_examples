@@ -5,7 +5,7 @@ import com.rodrigorar.creational.abstract_factory.ProductOne;
 import com.rodrigorar.creational.abstract_factory.ProductTwo;
 import com.rodrigorar.creational.abstract_factory.PlatformManager;
 
-public class AbstractFactoryPattern {
+class AbstractFactoryPattern {
   public static void main(String[] args) {
     // Platform One
 
